@@ -1,0 +1,605 @@
+{
+  "hi": "Hi",
+  "accept": "Accept",
+  "submit": "Submit",
+  "delete": "Delete",
+  "progress": {
+    "error": "Error!",
+    "complete": "Completed!",
+    "loading": "Loading..."
+  },
+  "datepicker": {
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "thisWeek": "This Week",
+    "lastWeek": "Last Week",
+    "lastSevenDay": "Last 7 Days",
+    "thisMonth": "This Month",
+    "lastMonth": "Last Month",
+    "thisYear": "This Year",
+    "lastYear": "Last Year"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "treetable": {
+    "globalSearch": "Global search...",
+    "columns": "Columns",
+    "filterPlaceholder": "Filter...",
+    "operations": "Operations",
+    "edit": "Edit",
+    "delete": "Delete",
+    "inputPlaceholder": "Page",
+    "show": "Show",
+    "item": "Item",
+    "goTo": "Go to",
+    "total": "Total",
+    "loading": "Loading..."
+  },
+  "notfound": {
+    "description": "Page Not Found",
+    "home": "Home",
+    "contact": "Contact"
+  },
+  "textarea": {
+    "label": "Title",
+    "textareaPlaceholder": "Enter Text...",
+    "textareaHelperText": "Helper Text"
+  },
+  "form": {
+    "required": "This field is required",
+    "invalid-email": "Invalid email",
+    "invalid-password": "Password must be 6 characters"
+  },
+  "picker": {
+    "placeholderFilterItems": "Filter Items",
+    "placeholderSelectAnItems": "Select an item",
+    "placeholderSelectMultipleItems": "Select multiple items",
+    "more": "more",
+    "searchPlaceholder": "Search...",
+    "selectAll": "Select All",
+    "noResultsFound": "No Results Found",
+    "noAvailableItems": "No Available Items"
+  },
+  "user": {
+    "settings": "Settings",
+    "logout": "Logout"
+  },
+  "theme": {
+    "vertical": "Vertical",
+    "horizontal": "Horizontal",
+    "slim": "Icon"
+  },
+  "view": {
+    "list": "List",
+    "grid": "Grid"
+  },
+  "dashboard": {
+    "revenue": "Revenue",
+    "sales": "Sales",
+    "costs": "Costs",
+    "monthlyTarget": "Monthly Target",
+    "monthlyTargetDescription": "You need a bit more effort to hit monthly target",
+    "learnMore": "Learn More",
+    "compareToLastYear": "Compare to last year (2019)",
+    "uniqueVisitors": "Unique Visitors",
+    "activeMembers": "Active Members",
+    "newJoinMember": "New Join Members",
+    "addAll": "Add All",
+    "disableAll": "Disable All",
+    "add": "Add",
+    "latestTransactions": "Latest Transactions",
+
+    "uiuxDesigner": "UI/UX Designer",
+    "hrExecutive": "HR Executive",
+    "frontendDeveloper": "Frontend Developer",
+    "complianceManager": "Compliance Manager",
+    "softwareEngineer": "Software Engineer",
+
+    "customer": "Customer",
+    "date": "Date",
+    "amount": "Amount",
+    "status": "Status",
+
+    "approved": "Approved",
+    "pending": "Pending",
+    "rejected": "Rejected",
+
+    "sessionDurations": "Session Durations",
+    "pageViews": "Page Views",
+    "members": "Members",
+
+    "jan": "Jan",
+    "feb": "Feb",
+    "mar": "Mar",
+    "apr": "Apr",
+    "may": "May",
+    "jun": "Jun",
+    "jul": "Jul",
+    "aug": "Aug",
+    "sep": "Sep",
+    "oct": "Oct",
+    "nov": "Nov",
+    "dec": "Dec",
+
+    "team": {
+      "TerranceMoreno": "Terrance Moreno",
+      "RonVargas": "Ron Vargas",
+      "LukeCook": "Luke Cook",
+      "JoyceFreeman": "Joyce Freeman",
+      "SamanthaPhillips": "Samantha Phillips"
+    },
+
+    "customers": {
+      "CB": "CB",
+      "ClaytonBates": "Clayton Bates",
+      "GF": "GF",
+      "GabrielFrazier": "Gabriel Frazier",
+      "DH": "DH",
+      "DebraHamilton": "Debra Hamilton",
+      "SW": "SW",
+      "StaceyWard": "Stacey Ward",
+      "TA": "TA",
+      "TroyAlexander": "Troy Alexander"
+    },
+
+    "refresh": "Refresh",
+    "print": "Print",
+    "export": "Export"
+  },
+  "analytic": {
+    "desktops": "Desktops",
+    "tablets": "Tablets",
+    "mobiles": "Mobiles",
+    "sessionsDevice": "Sessions Device",
+
+    "unitedStatesOfAmerica": "United States of America",
+    "brazil": "Brazil",
+    "india": "India",
+    "china": "China",
+    "australia": "Australia",
+    "canada": "Canada",
+    "russia": "Russia",
+    "malaysia": "Malaysia",
+    "thailand": "Thailand",
+
+    "home": "Home",
+    "resources": "Resources",
+    "integrations": "Integrations",
+    "partners": "Partners",
+    "developers": "Developers",
+
+    "uniqueVisitors": "Unique Visitors",
+    "sessionDurations": "Session Durations",
+    "day": "Day",
+    "week": "Week",
+    "month": "Month",
+    "timeLabels": {
+      "12am": "12:00 AM",
+      "6am": "6:00 AM",
+      "12pm": "12:00 PM",
+      "6pm": "6:00 PM"
+    },
+    "jan": "Jan",
+
+    "entranceByRegion": "Entrance by region",
+    "topEntranceRegion": "Top entrance region",
+
+    "mostVisitedPages": "Most Visited Pages",
+    "socialMediaReferrals": "Social Media Referrals",
+    "total": "Total"
+  },
+  "projectList": {
+    "Mobile Application": "Mobile Application",
+    "Frontend Web Application": "Frontend Web Application",
+    "Backend Application": "Backend Application",
+    "Backend Services": "Backend Services",
+    "Web Backend Application": "Web Backend Application",
+    "Web Application": "Web Application",
+
+    "attachments": "Attachments",
+    "tasksCompleted": "Tasks Completed",
+    "timeLeft": "Time Left",
+    "daysLeft": "days left",
+    "progress": "Progress",
+
+    "finance-reviewer-app": "Finance Reviewer APP",
+    "eMenu-web": "eMenu Web",
+    "octonine-pos": "Octonine POS",
+    "wind-chill-api": "Wind Chill API",
+    "iop-web": "IOP Web",
+    "wind-chill-app": "Wind Chill App",
+    "eastern-saas": "Eastern SaaS",
+
+    "projects": "Projects",
+    "new": "New",
+    "user": "User",
+    "more": "more",
+    "view": "View",
+    "edit": "Edit",
+    "deleteProject": "Delete Project"
+  },
+  "settings": {
+    "notificationsTitle": "Notifications",
+    "mentions": {
+      "title": "Mentions",
+      "description": "You will receive an alert when someone mentions you in any post."
+    },
+    "follows": {
+      "title": "Follows",
+      "description": "You will receive an alert when someone is following you."
+    },
+    "comments": {
+      "title": "Comments",
+      "description": "You will receive a notification when someone comments on your post."
+    },
+    "email": {
+      "title": "Email Notifications",
+      "description": "You will receive daily email notifications."
+    },
+    "newProduct": {
+      "title": "New Product",
+      "description": "You will receive a notification when a new product arrives."
+    },
+    "groupInvites": {
+      "title": "Group Invitations",
+      "description": "You will receive a notification when a group invites you."
+    },
+    "tasks": {
+      "title": "Tasks",
+      "description": "You will receive a notification when someone assigns you a task."
+    },
+    "billing": {
+      "title": "Billing",
+      "card": "Card",
+      "cardNumber": "Card Number",
+      "expires": "Expires on",
+      "addNewCard": "Add new card"
+    },
+    "changePassword": {
+      "title": "Change Password",
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm Password",
+      "submit": "Change Password"
+    },
+    "editProfile": {
+      "changeAvatar": "Change Avatar",
+      "remove": "Remove",
+      "name": "Name",
+      "username": "Username",
+      "email": "Email",
+      "dob": "Date of Birth",
+      "phone": "Phone Number",
+      "website": "Website",
+      "address": "Address",
+      "city": "City",
+      "postCode": "Post Code",
+      "save": "Save Changes"
+    },
+    "tabs": {
+      "editProfile": "Edit Profile",
+      "changePassword": "Change Password",
+      "billing": "Billing",
+      "notification": "Notification"
+    }
+  },
+  "sales": {
+    "july": "july",
+    "sessionDurations": "Session Durations",
+    "categories": {
+      "title": "Sales by Category",
+      "bags": "Bags",
+      "devices": "Devices",
+      "cloths": "Cloths",
+      "watches": "Watches"
+    },
+    "topProduct": "Top Product",
+    "sales": "Sales",
+    "period": {
+      "This Week": "This Week",
+      "This Month": "This Month",
+      "This Year": "This Year"
+    },
+    "products": {
+      "Blue Jacket": "Blue Jacket",
+      "White Sneaker": "White Sneaker",
+      "Red Beat Headphone": "Red Beat Headphone",
+      "Apple Watch": "Apple Watch",
+      "Blue Backpack": "Blue Backpack"
+    },
+    "orders": {
+      "title": "Recent Orders",
+      "id": "ID",
+      "product": "Product",
+      "date": "Date",
+      "orderStatus": "Order Status",
+      "paymentStatus": "Payment Status",
+      "total": "Total",
+      "status": {
+        "ready": "Ready",
+        "shipped": "Shipped",
+        "pending": "Pending"
+      },
+      "payment": {
+        "paid": "Paid",
+        "pending": "Pending"
+      }
+    },
+    "chart": {
+      "title": {
+        "customers": "Customers"
+      },
+      "storeCustomers": "Store Customers",
+      "onlineCustomers": "Online Customers",
+      "days": {
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat",
+        "sun": "Sun"
+      },
+      "weeks": {
+        "week1": "Week 1",
+        "week2": "Week 2",
+        "week3": "Week 3",
+        "week4": "Week 4"
+      },
+      "months": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec"
+      },
+      "period": {
+        "This Week": "This Week",
+        "This Month": "This Month",
+        "This Year": "This Year"
+      }
+    },
+    "weeklyRevenue": {
+      "title": "Weekly Revenue",
+      "dateRange": "{{start}} - {{end}}, {{year}}",
+      "downloadReport": "Download Report",
+      "growth": "17% growth from last week",
+      "description": "Total gross income figure based from the date range given above."
+    },
+    "dashboard": {
+      "totalOrder": "Total Order",
+      "conversionRate": "Conversion rate",
+      "totalProfit": "Total profit",
+      "dailyVisitors": "Daily visitors"
+    }
+  },
+  "ordersTable": {
+    "title": "Recent Orders",
+    "columns": {
+      "id": "ID",
+      "product": "Product",
+      "date": "Date",
+      "orderStatus": "Order Status",
+      "paymentStatus": "Payment Status",
+      "total": "Total",
+      "actions": "Actions"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "addToBookmark": "Add to Bookmark"
+    },
+    "status": {
+      "order": {
+        "ready": "Ready",
+        "shipped": "Shipped"
+      },
+      "payment": {
+        "paid": "Paid",
+        "pending": "Pending",
+        "expired": "Expired"
+      }
+    }
+  },
+  "addProductPage": {
+    "title": "Add New Product",
+    "add": "Add",
+    "discard": "Discard",
+    "tabs": {
+      "general": "General",
+      "variation": "Variation",
+      "shipping": "Shipping"
+    },
+    "categories": {
+      "cloths": "Cloths",
+      "bags": "Bags",
+      "shoes": "Shoes",
+      "watches": "Watches",
+      "devices": "Devices"
+    },
+    "tags": {
+      "cotton": "Cotton",
+      "nike": "Nike",
+      "sales": "Sales",
+      "sports": "Sports",
+      "outdoor": "Outdoor",
+      "toys": "Toys",
+      "hobbies": "Hobbies"
+    },
+    "basicInfo": "Basic Information",
+    "productName": "Product Name",
+    "productNamePlaceholder": "Enter product name",
+    "description": "Description",
+    "pricing": "Pricing",
+    "price": "Price",
+    "comparePrice": "Compare Price",
+    "costPerItem": "Cost Per Item",
+    "taxRate": "Tax Rate",
+    "fileUpload": {
+      "invalidSingleFileMessage": "Invalid file.",
+      "invalidFileNameMessage": "Invalid file name.",
+      "invalidFileTypeMessage": "Invalid file type.",
+      "invalidFileSizeMessage": "File size too large.",
+      "dragDropOrSelectFileMessage": "Drag and drop or select files",
+      "selectFileText": "Select File",
+      "forbiddenCharsLabel": "Forbidden characters",
+      "fileUploadedText": "File uploaded",
+      "errorPrefixMessage": "Error:",
+      "fileSizeUnit": "MB",
+      "uploadLimitMessage": "Upload limit exceeded",
+      "productImage": "Product Image"
+    },
+    "organization": "Organization",
+    "category": "Category",
+    "tag": "Tags",
+    "picker": {
+      "placeholderSelectAnItems": "Select an item",
+      "more": "More",
+      "searchPlaceholder": "Search...",
+      "selectAll": "Select All",
+      "noResultsFound": "No results found",
+      "noAvailableItems": "No available items"
+    },
+    "variants": "Variants",
+    "variantsDescription": "Add product variants here",
+    "variant": "Variant",
+    "stockKeepingUnit": "Stock Keeping Unit (SKU)",
+    "addField": "Add Field",
+    "shipping": "Shipping",
+    "width": "Width",
+    "height": "Height",
+    "weight": "Weight",
+    "shippingFees": "Shipping Fees"
+  },
+  "productList": {
+    "headers": {
+      "id": "ID",
+      "product": "Product",
+      "category": "Category",
+      "price": "Price",
+      "stock": "Stock",
+      "status": "Status"
+    },
+    "categories": {
+      "all": "All",
+      "cloths": "Cloths",
+      "bags": "Bags",
+      "shoes": "Shoes",
+      "watches": "Watches",
+      "devices": "Devices"
+    },
+    "statuses": {
+      "inStock": "In Stock",
+      "outOfStock": "Out of Stock",
+      "limitedStock": "Limited Stock"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "deleteProduct": "Delete Product"
+    },
+    "searchProducts": "Search Products"
+  },
+  "productNames": {
+    "blueJacket": "Blue Jacket",
+    "whiteBackpack": "White Backpack",
+    "blackSneaker": "Black Sneaker",
+    "grayHoodies": "Gray Hoodies",
+    "blueBackpack": "Blue Backpack",
+    "whiteSneaker": "White Sneaker",
+    "stripAnalogWatch": "Strip Analog Watch",
+    "redBeatHeadphone": "Red Beat Headphone",
+    "appleMacbookPro": "Apple Macbook Pro",
+    "bronzeAnalogWatch": "Bronze Analog Watch"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "newMessage": {
+      "caption": "You Have a New Message",
+      "description": "Ali sent you a message."
+    },
+    "orderUpdate": {
+      "caption": "Order Update",
+      "description": "Your order has been shipped."
+    },
+    "reminder": {
+      "caption": "Reminder",
+      "description": "Your meeting starts in 1 hour."
+    }
+  },
+  "navbar": {
+    "search": "Search...",
+    "frontEnd": "Front End Developer"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "analytic": "Analytics",
+    "sales": "Sales",
+    "project_list": "Project List",
+    "ecommerce": "E-commerce",
+    "product_list": "Product List",
+    "add_product": "Add Product",
+    "edit_product": "Edit Product",
+    "orders": "Orders",
+    "settings": "Settings",
+    "turkey_map": "Turkey Map",
+    "accordion": "Accordion",
+    "barcode": "Barcode",
+    "button": "Button",
+    "carousel": "Carousel",
+    "chart": "Chart",
+    "datatable": "Datatable",
+    "datatable.basic_usage": "Basic Usage",
+    "datatable.server_side": "Server-Side",
+    "datatable.multiple_selection_pinning": "Multiple Selection + Pinning",
+    "datatable.single_selection": "Single Selection (onClick)",
+    "datatable.row_reorder": "Row Reorder",
+    "datatable.row_expand": "Row Expand",
+    "datatable.row_pinning": "Row Pinning",
+    "datatable.column_pinning": "Column Pinning",
+    "datatable.column_resize": "Column Resize",
+    "datatable.custom_filter_visibility": "Custom Filter & Visibility",
+    "datatable.grouping_aggregation": "Grouping & Aggregation",
+    "datatable.export_print": "Export & Print",
+    "datatable.row_events": "Row Events",
+    "datatable.loading_no_data": "Loading & No Data",
+    "datatable.full_featured": "Full Featured Table",
+    "datatable.styling_variants": "Styling Variants",
+    "datatable.custom_loading": "Custom Loading",
+    "datatable.row_size": "Row Size",
+    "dialog": "Dialog / Modal",
+    "editor": "Editor",
+    "form": "Form",
+    "gridlist": "Grid List",
+    "image": "Image",
+    "input": "Input",
+    "list": "List",
+    "menu": "Menu",
+    "step": "Step",
+    "table": "Table",
+    "tools": "Tools",
+    "categories": {
+      "dashboard": "DASHBOARD",
+      "app": "APPLICATIONS",
+      "components": "COMPONENTS",
+      "others": "OTHERS"
+    }
+  }
+}

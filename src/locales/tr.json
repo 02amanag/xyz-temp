@@ -1,0 +1,610 @@
+{
+  "hi": "Merhaba",
+  "accept": "Kabul et",
+  "submit": "Gönder",
+  "delete": "Sil",
+  "progress": {
+    "error": "Hata!",
+    "complete": "Yüklendi!",
+    "loading": "Yükleniyor..."
+  },
+  "datepicker": {
+    "today": "Bugün",
+    "yesterday": "Dün",
+    "thisWeek": "Bu Hafta",
+    "lastWeek": "Geçen Hafta",
+    "lastSevenDay": "Son 7 Gün",
+    "thisMonth": "Bu Ay",
+    "lastMonth": "Geçen Ay",
+    "thisYear": "Bu Yıl",
+    "lastYear": "Geçen Yıl"
+  },
+  "months": {
+    "january": "Ocak",
+    "february": "Şubat",
+    "march": "Mart",
+    "april": "Nisan",
+    "may": "Mayıs",
+    "june": "Haziran",
+    "july": "Temmuz",
+    "august": "Ağustos",
+    "september": "Eylül",
+    "october": "Ekim",
+    "november": "Kasım",
+    "december": "Aralık"
+  },
+  "treetable": {
+    "globalSearch": "Genel arama...",
+    "columns": "Kolonlar",
+    "filterPlaceholder": "Filtrele...",
+    "operations": "İşlemler",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "show": "Göster",
+    "item": "Öğe",
+    "inputPlaceholder": "Sayfa",
+    "goTo": "Git",
+    "total": "Toplam",
+    "loading": "Yükleniyor..."
+  },
+  "textarea": {
+    "label": "Başlık",
+    "textareaPlaceholder": "Metin Giriniz...",
+    "textareaHelperText": "Yardımcı Metin"
+  },
+  "notfound": {
+    "description": "Üzgünüz, aradığınız sayfayı bulamadık.",
+    "home": "Anasayfa",
+    "contact": "İletişim"
+  },
+  "form": {
+    "required": "Bu alan zorunludur",
+    "invalid-email": "Geçersiz mail",
+    "invalid-password": "Parola en az 6 karakter olmalıdır"
+  },
+  "picker": {
+    "placeholderFilterItems": "Arama Yap",
+    "placeholderSelectAnItems": "Tekli Seçim",
+    "placeholderSelectMultipleItems": "Çoklu Seçim",
+    "more": "fazla",
+    "searchPlaceholder": "Arama...",
+    "selectAll": "Hepsini Seç",
+    "noResultsFound": "Arama Bulunamadı",
+    "noAvailableItems": "Sonuç Bulunamadı"
+  },
+  "user": {
+    "settings": "Ayarlar",
+    "logout": "Çıkış Yap"
+  },
+  "navigation": {
+    "expand_collapse": "Genişlet / Daralt",
+    "collapse_all": "Tümünü Daralt",
+    "expand_all": "Tümünü Genişlet"
+  },
+  "theme": {
+    "vertical": "Dikey",
+    "horizontal": "Yatay",
+    "slim": "İcon"
+  },
+  "view": {
+    "list": "Liste",
+    "grid": "Izgara"
+  },
+  "dashboard": {
+    "revenue": "Gelir",
+    "sales": "Satışlar",
+    "costs": "Giderler",
+    "monthlyTarget": "Aylık Hedef",
+    "monthlyTargetDescription": "Aylık hedefe ulaşmak için biraz daha çaba gerek",
+    "learnMore": "Daha Fazla Bilgi",
+    "compareToLastYear": "Geçen yıla kıyasla (2019)",
+    "uniqueVisitors": "Özel Ziyaretçiler",
+    "activeMembers": "Aktif Üyeler",
+    "newJoinMember": "Yeni Katılan Üyeler",
+    "addAll": "Tümünü Ekle",
+    "disableAll": "Tümünü Devre Dışı Bırak",
+    "add": "Ekle",
+    "latestTransactions": "Son İşlemler",
+
+    "uiuxDesigner": "UI/UX Tasarımcısı",
+    "hrExecutive": "İK Yöneticisi",
+    "frontendDeveloper": "Frontend Geliştirici",
+    "complianceManager": "Uyum Yöneticisi",
+    "softwareEngineer": "Yazılım Mühendisi",
+
+    "customer": "Müşteri",
+    "date": "Tarih",
+    "amount": "Tutar",
+    "status": "Durum",
+
+    "approved": "Onaylandı",
+    "pending": "Beklemede",
+    "rejected": "Reddedildi",
+
+    "sessionDurations": "Oturum Süreleri",
+    "pageViews": "Sayfa Görüntülemeleri",
+    "members": "Üyeler",
+
+    "jan": "Oca",
+    "feb": "Şub",
+    "mar": "Mar",
+    "apr": "Nis",
+    "may": "May",
+    "jun": "Haz",
+    "jul": "Tem",
+    "aug": "Ağu",
+    "sep": "Eyl",
+    "oct": "Eki",
+    "nov": "Kas",
+    "dec": "Ara",
+
+    "team": {
+      "TerranceMoreno": "Terrance Moreno",
+      "RonVargas": "Ron Vargas",
+      "LukeCook": "Luke Cook",
+      "JoyceFreeman": "Joyce Freeman",
+      "SamanthaPhillips": "Samantha Phillips"
+    },
+
+    "customers": {
+      "CB": "CB",
+      "ClaytonBates": "Clayton Bates",
+      "GF": "GF",
+      "GabrielFrazier": "Gabriel Frazier",
+      "DH": "DH",
+      "DebraHamilton": "Debra Hamilton",
+      "SW": "SW",
+      "StaceyWard": "Stacey Ward",
+      "TA": "TA",
+      "TroyAlexander": "Troy Alexander"
+    },
+
+    "refresh": "Yenile",
+    "print": "Yazdır",
+    "export": "Dışa Aktar"
+  },
+  "analytic": {
+    "desktops": "Masaüstü",
+    "tablets": "Tablet",
+    "mobiles": "Mobil",
+    "sessionsDevice": "Oturum Cihazı",
+
+    "unitedStatesOfAmerica": "Amerika Birleşik Devletleri",
+    "brazil": "Brezilya",
+    "india": "Hindistan",
+    "china": "Çin",
+    "australia": "Avustralya",
+    "canada": "Kanada",
+    "russia": "Rusya",
+    "malaysia": "Malezya",
+    "thailand": "Tayland",
+
+    "home": "Ana Sayfa",
+    "resources": "Kaynaklar",
+    "integrations": "Entegrasyonlar",
+    "partners": "Ortaklar",
+    "developers": "Geliştiriciler",
+
+    "uniqueVisitors": "Özel Ziyaretçiler",
+    "sessionDurations": "Oturum Süreleri",
+    "day": "Gün",
+    "week": "Hafta",
+    "month": "Ay",
+    "timeLabels": {
+      "12am": "12:00 ÖÖ",
+      "6am": "6:00 ÖÖ",
+      "12pm": "12:00 ÖS",
+      "6pm": "6:00 ÖS"
+    },
+    "jan": "Oca",
+
+    "entranceByRegion": "Bölgelere Göre Giriş",
+    "topEntranceRegion": "En Çok Giriş Yapan Bölge",
+
+    "mostVisitedPages": "En Çok Ziyaret Edilen Sayfalar",
+    "socialMediaReferrals": "Sosyal Medya Yönlendirmeleri",
+    "total": "Toplam"
+  },
+  "projectList": {
+    "Mobile Application": "Mobil Uygulama",
+    "Frontend Web Application": "Ön Yüz Web Uygulaması",
+    "Backend Application": "Arka Uç Uygulaması",
+    "Backend Services": "Arka Uç Servisleri",
+    "Web Backend Application": "Web Arka Uç Uygulaması",
+    "Web Application": "Web Uygulaması",
+
+    "attachments": "Ekler",
+    "tasksCompleted": "Tamamlanan Görevler",
+    "timeLeft": "Kalan Süre",
+    "daysLeft": "gün kaldı",
+    "progress": "İlerleme",
+
+    "finance-reviewer-app": "Finans İnceleme Uygulaması",
+    "eMenu-web": "eMenu Web",
+    "octonine-pos": "Octonine POS",
+    "wind-chill-api": "Wind Chill API",
+    "iop-web": "IOP Web",
+    "wind-chill-app": "Wind Chill Uygulaması",
+    "eastern-saas": "Doğu SaaS",
+
+    "projects": "Projeler",
+    "new": "Yeni",
+    "user": "Kullanıcı",
+    "more": "daha",
+    "view": "Görüntüle",
+    "edit": "Düzenle",
+    "deleteProject": "Projeyi Sil"
+  },
+  "settings": {
+    "notificationsTitle": "Bildirimler",
+    "mentions": {
+      "title": "Bahsetmeler",
+      "description": "Birisi sizden herhangi bir gönderide bahsettiğinde uyarı alacaksınız."
+    },
+    "follows": {
+      "title": "Takipler",
+      "description": "Birisi sizi takip ettiğinde uyarı alacaksınız."
+    },
+    "comments": {
+      "title": "Yorumlar",
+      "description": "Birisi gönderinize yorum yaptığında bildirim alacaksınız."
+    },
+    "email": {
+      "title": "E-posta Bildirimleri",
+      "description": "Günlük e-posta bildirimleri alacaksınız."
+    },
+    "newProduct": {
+      "title": "Yeni Ürün",
+      "description": "Yeni bir ürün geldiğinde bildirim alacaksınız."
+    },
+    "groupInvites": {
+      "title": "Grup Davetleri",
+      "description": "Bir grup sizi davet ettiğinde bildirim alacaksınız."
+    },
+    "tasks": {
+      "title": "Görevler",
+      "description": "Birisi size görev atadığında bildirim alacaksınız."
+    },
+    "billing": {
+      "title": "Faturalandırma",
+      "card": "Kredi Kartı",
+      "cardNumber": "Kart Numarası",
+      "expires": "Son Kullanma Tarihi",
+      "addNewCard": "Yeni Kart Ekle"
+    },
+    "changePassword": {
+      "title": "Şifre Değiştir",
+      "current": "Mevcut Şifre",
+      "new": "Yeni Şifre",
+      "confirm": "Yeni Şifre (Tekrar)",
+      "submit": "Şifreyi Değiştir"
+    },
+    "editProfile": {
+      "changeAvatar": "Avatarı Değiştir",
+      "remove": "Kaldır",
+      "name": "Ad",
+      "username": "Kullanıcı Adı",
+      "email": "E-posta",
+      "dob": "Doğum Tarihi",
+      "phone": "Telefon Numarası",
+      "website": "Web Sitesi",
+      "address": "Adres",
+      "city": "Şehir",
+      "postCode": "Posta Kodu",
+      "save": "Değişiklikleri Kaydet"
+    },
+    "tabs": {
+      "editProfile": "Profili Düzenle",
+      "changePassword": "Şifreyi Değiştir",
+      "billing": "Faturalandırma",
+      "notification": "Bildirimler"
+    }
+  },
+  "sales": {
+    "july": "tem",
+    "sessionDurations": "Oturum Süreleri",
+    "categories": {
+      "title": "Kategoriye Göre Satışlar",
+      "bags": "Çantalar",
+      "devices": "Cihazlar",
+      "cloths": "Kıyafetler",
+      "watches": "Saatler"
+    },
+    "topProduct": "En Çok Satan Ürün",
+    "sales": "Satışlar",
+    "period": {
+      "This Week": "Bu Hafta",
+      "This Month": "Bu Ay",
+      "This Year": "Bu Yıl"
+    },
+    "products": {
+      "Blue Jacket": "Mavi Ceket",
+      "White Sneaker": "Beyaz Spor Ayakkabı",
+      "Red Beat Headphone": "Kırmızı Beat Kulaklık",
+      "Apple Watch": "Apple Saat",
+      "Blue Backpack": "Mavi Sırt Çantası"
+    },
+    "orders": {
+      "title": "Güncel Siparişler",
+      "id": "Sipariş No",
+      "product": "Ürün",
+      "date": "Tarih",
+      "orderStatus": "Sipariş Durumu",
+      "paymentStatus": "Ödeme Durumu",
+      "total": "Toplam",
+      "status": {
+        "ready": "Hazır",
+        "shipped": "Kargolandı",
+        "pending": "Beklemede"
+      },
+      "payment": {
+        "paid": "Ödendi",
+        "pending": "Beklemede"
+      }
+    },
+    "chart": {
+      "title": {
+        "customers": "Müşteriler"
+      },
+      "storeCustomers": "Mağaza Müşterileri",
+      "onlineCustomers": "Online Müşteriler",
+      "days": {
+        "mon": "Pzt",
+        "tue": "Sal",
+        "wed": "Çar",
+        "thu": "Per",
+        "fri": "Cum",
+        "sat": "Cmt",
+        "sun": "Paz"
+      },
+      "weeks": {
+        "week1": "1. Hafta",
+        "week2": "2. Hafta",
+        "week3": "3. Hafta",
+        "week4": "4. Hafta"
+      },
+      "months": {
+        "jan": "Oca",
+        "feb": "Şub",
+        "mar": "Mar",
+        "apr": "Nis",
+        "may": "May",
+        "jun": "Haz",
+        "jul": "Tem",
+        "aug": "Ağu",
+        "sep": "Eyl",
+        "oct": "Eki",
+        "nov": "Kas",
+        "dec": "Ara"
+      },
+      "period": {
+        "This Week": "Bu Hafta",
+        "This Month": "Bu Ay",
+        "This Year": "Bu Yıl"
+      }
+    },
+    "weeklyRevenue": {
+      "title": "Haftalık Gelir",
+      "dateRange": "{{start}} - {{end}}, {{year}}",
+      "downloadReport": "Raporu İndir",
+      "growth": "Geçen haftaya göre %17 artış",
+      "description": "Yukarıda belirtilen tarih aralığına göre toplam brüt gelir rakamı."
+    },
+    "dashboard": {
+      "totalOrder": "Toplam Sipariş",
+      "conversionRate": "Dönüşüm Oranı",
+      "totalProfit": "Toplam Kar",
+      "dailyVisitors": "Günlük Ziyaretçi"
+    }
+  },
+  "ordersTable": {
+    "title": "Son Siparişler",
+    "columns": {
+      "id": "ID",
+      "product": "Ürün",
+      "date": "Tarih",
+      "orderStatus": "Sipariş Durumu",
+      "paymentStatus": "Ödeme Durumu",
+      "total": "Toplam",
+      "actions": "İşlemler"
+    },
+    "actions": {
+      "viewDetails": "Detayları Gör",
+      "addToBookmark": "Yer İşaretine Ekle"
+    },
+    "status": {
+      "order": {
+        "ready": "Hazır",
+        "shipped": "Gönderildi"
+      },
+      "payment": {
+        "paid": "Ödendi",
+        "pending": "Beklemede",
+        "expired": "Süresi Doldu"
+      }
+    }
+  },
+  "addProductPage": {
+    "title": "Yeni Ürün Ekle",
+    "add": "Ekle",
+    "discard": "İptal",
+    "tabs": {
+      "general": "Genel",
+      "variation": "Varyantlar",
+      "shipping": "Kargolama"
+    },
+    "categories": {
+      "cloths": "Kıyafetler",
+      "bags": "Çantalar",
+      "shoes": "Ayakkabılar",
+      "watches": "Saatler",
+      "devices": "Cihazlar"
+    },
+    "tags": {
+      "cotton": "Pamuk",
+      "nike": "Nike",
+      "sales": "İndirimler",
+      "sports": "Spor",
+      "outdoor": "Açık Hava",
+      "toys": "Oyuncaklar",
+      "hobbies": "Hobiler"
+    },
+    "basicInfo": "Temel Bilgiler",
+    "productName": "Ürün Adı",
+    "productNamePlaceholder": "Ürün adını girin",
+    "description": "Açıklama",
+    "pricing": "Fiyatlandırma",
+    "price": "Fiyat",
+    "comparePrice": "Karşılaştırma Fiyatı",
+    "costPerItem": "Birim Maliyeti",
+    "taxRate": "Vergi Oranı",
+    "fileUpload": {
+      "invalidSingleFileMessage": "Geçersiz dosya.",
+      "invalidFileNameMessage": "Dosya adı geçersiz.",
+      "invalidFileTypeMessage": "Geçersiz dosya türü.",
+      "invalidFileSizeMessage": "Dosya boyutu çok büyük.",
+      "dragDropOrSelectFileMessage": "Dosyayı sürükleyip bırakın",
+      "selectFileText": "Dosya Seç",
+      "forbiddenCharsLabel": "İzin verilmeyen karakterler",
+      "fileUploadedText": "Dosya yüklendi",
+      "errorPrefixMessage": "Hata:",
+      "fileSizeUnit": "MB",
+      "uploadLimitMessage": "Yükleme sınırı aşıldı",
+      "productImage": "Ürün Görseli"
+    },
+    "organization": "Organizasyon",
+    "category": "Kategori",
+    "tag": "Etiketler",
+    "picker": {
+      "placeholderSelectAnItems": "Bir öğe seçin",
+      "more": "Daha fazla",
+      "searchPlaceholder": "Ara...",
+      "selectAll": "Tümünü seç",
+      "noResultsFound": "Sonuç bulunamadı",
+      "noAvailableItems": "Kullanılabilir öğe yok"
+    },
+    "variants": "Varyantlar",
+    "variantsDescription": "Ürün varyantlarını buradan ekleyin",
+    "variant": "Varyant",
+    "stockKeepingUnit": "Stok Tutma Birimi (SKU)",
+    "addField": "Alan Ekle",
+    "shipping": "Kargo",
+    "width": "Genişlik",
+    "height": "Yükseklik",
+    "weight": "Ağırlık",
+    "shippingFees": "Kargo Ücretleri"
+  },
+  "productList": {
+    "headers": {
+      "id": "ID",
+      "product": "Ürün",
+      "category": "Kategori",
+      "price": "Fiyat",
+      "stock": "Stok",
+      "status": "Durum"
+    },
+    "categories": {
+      "all": "Hepsi",
+      "cloths": "Kıyafetler",
+      "bags": "Çantalar",
+      "shoes": "Ayakkabılar",
+      "watches": "Saatler",
+      "devices": "Cihazlar"
+    },
+    "statuses": {
+      "inStock": "Stokta Var",
+      "outOfStock": "Stokta Yok",
+      "limitedStock": "Sınırlı Stok"
+    },
+    "actions": {
+      "viewDetails": "Detayları Görüntüle",
+      "deleteProduct": "Ürünü Sil"
+    },
+    "searchProducts": "Ürünleri Ara"
+  },
+  "productNames": {
+    "blueJacket": "Mavi Ceket",
+    "whiteBackpack": "Beyaz Sırt Çantası",
+    "blackSneaker": "Siyah Spor Ayakkabı",
+    "grayHoodies": "Gri Kapüşonlu",
+    "blueBackpack": "Mavi Sırt Çantası",
+    "whiteSneaker": "Beyaz Spor Ayakkabı",
+    "stripAnalogWatch": "Çizgili Analog Saat",
+    "redBeatHeadphone": "Kırmızı Beat Kulaklık",
+    "appleMacbookPro": "Apple Macbook Pro",
+    "bronzeAnalogWatch": "Bronz Analog Saat"
+  },
+  "notifications": {
+    "title": "Bildirimler",
+    "newMessage": {
+      "caption": "Yeni Mesajınız Var",
+      "description": "Ali size bir mesaj gönderdi."
+    },
+    "orderUpdate": {
+      "caption": "Sipariş Güncellemesi",
+      "description": "Siparişiniz kargoya verildi."
+    },
+    "reminder": {
+      "caption": "Hatırlatma",
+      "description": "Toplantınız 1 saat sonra başlıyor."
+    }
+  },
+  "navbar": {
+    "search": "Ara...",
+    "frontEnd": "Ön Yüz Geliştirici"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "analytic": "Analitik",
+    "sales": "Satışlar",
+    "project_list": "Proje Listesi",
+    "ecommerce": "E-Ticaret",
+    "product_list": "Ürün Listesi",
+    "add_product": "Ürün Ekle",
+    "edit_product": "Ürünü Düzenle",
+    "orders": "Siparişler",
+    "settings": "Ayarlar",
+    "turkey_map": "Türkiye Haritası",
+    "accordion": "Accordion",
+    "barcode": "Barcode",
+    "button": "Button",
+    "carousel": "Carousel",
+    "chart": "Chart",
+    "datatable": "Tablo",
+    "datatable.basic_usage": "Temel Kullanım",
+    "datatable.server_side": "Sunucu Taraflı",
+    "datatable.multiple_selection_pinning": "Çoklu Seçim + Sabitleme",
+    "datatable.single_selection": "Tekli Seçim (Tıklama)",
+    "datatable.row_reorder": "Satır Sıralama",
+    "datatable.row_expand": "Satır Genişletme",
+    "datatable.row_pinning": "Satır Sabitleme",
+    "datatable.column_pinning": "Kolon Sabitleme",
+    "datatable.column_resize": "Kolon Boyutlandırma",
+    "datatable.custom_filter_visibility": "Özel Filtre & Görünürlük",
+    "datatable.grouping_aggregation": "Gruplama & Toplama",
+    "datatable.export_print": "Dışa Aktar & Yazdır",
+    "datatable.row_events": "Satır Olayları (onRowClick, vb.)",
+    "datatable.loading_no_data": "Yükleniyor & Veri Yok",
+    "datatable.full_featured": "Tam Özellikli Tablo",
+    "datatable.styling_variants": "Stil Varyantları",
+    "datatable.custom_loading": "Özel Yükleniyor",
+    "datatable.row_size": "Satır Boyutu",
+    "dialog": "Dialog/Modal",
+    "editor": "Editor",
+    "form": "Form",
+    "gridlist": "GridList",
+    "image": "Image",
+    "input": "Input",
+    "list": "List",
+    "menu": "Menu",
+    "step": "Step",
+    "table": "Table",
+    "tools": "Araçlar",
+    "categories": {
+      "dashboard": "DASHBOARD",
+      "app": "UYGULAMALAR",
+      "components": "BİLEŞENLER",
+      "others": "DİĞER"
+    }
+  }
+}
