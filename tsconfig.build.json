@@ -1,0 +1,48 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "outDir": "dist",
+    "declaration": true,
+    "declarationMap": true,
+    "emitDeclarationOnly": false,
+    "rootDir": "src",
+    "baseUrl": ".",
+    "paths": {},
+    "module": "ESNext",
+    "target": "ES2020",
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": false,
+    "isolatedModules": true,
+    "verbatimModuleSyntax": false,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noEmit": false
+  },
+  "include": [
+    "src/components/ui/**/*",
+    "src/hooks/**/*",
+    "src/index.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/pages/**/*",
+    "src/components/AppSidebar.tsx",
+    "src/components/Layout.tsx",
+    "src/components/nav-sidebar/**/*",
+    "src/components/theme/**/*",
+    "src/providers/**/*",
+    "src/auth/**/*",
+    "src/redux/**/*",
+    "src/routes/**/*",
+    "src/schema/**/*",
+    "src/utils/**/*",
+    "src/lib/**/*",
+    "src/atoms/**/*",
+    "src/i18n/**/*",
+    "src/locales/**/*",
+    "src/assets/**/*",
+    "src/styles/**/*"
+  ]
+} 

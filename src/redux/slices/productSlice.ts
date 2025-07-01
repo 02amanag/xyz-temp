@@ -8,7 +8,7 @@ import GrayHoodies from "../../assets/images/GrayHoodies.jpg";
 import BlueBackpack from "../../assets/images/BlueBackpack.jpg";
 import WhiteSneaker from "../../assets/images/WhiteSneaker.jpg";
 import StripAnalogWatch from "../../assets/images/StripAnalogWatch.jpg";
-import RedBeatHeadphone from "../../assets/images/RedBeatHeadphone.jpg";
+import RedBeatHeadPhone from "../../assets/images/RedBeatHeadPhone.jpg";
 import AppleMacbookPro from "../../assets/images/AppleMacbookPro.jpg";
 import BronzeAnalogWatch from "../../assets/images/BronzeAnalogWatch.jpg";
 
@@ -17,6 +17,7 @@ interface Product {
   nameKey: string;
   image: string;
   category: string;
+  
   price: string;
   stock: number;
   status: string;
@@ -95,7 +96,7 @@ const initialState: ProductsState = {
     {
       id: "19",
       nameKey: "redBeatHeadphone",
-      image: RedBeatHeadphone,
+      image: RedBeatHeadPhone,
       category: "devices",
       price: "$86.00",
       stock: 0,
