@@ -1,0 +1,1 @@
+{"version":3,"file":"StandaloneThemeSwitcher.d.ts","sourceRoot":"","sources":["../../../src/components/ui/StandaloneThemeSwitcher.tsx"],"names":[],"mappings":"AAKA,UAAU,4BAA4B;IACpC,aAAa,CAAC,EAAE,CAAC,KAAK,EAAE,OAAO,GAAG,MAAM,GAAG,QAAQ,KAAK,IAAI,CAAC;IAC7D,SAAS,CAAC,EAAE,MAAM,CAAC;CACpB;AAED,wBAAgB,uBAAuB,CAAC,EAAE,aAAa,EAAE,SAAS,EAAE,EAAE,4BAA4B,2CA8BjG"}
