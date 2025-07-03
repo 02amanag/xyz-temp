@@ -1,10 +1,12 @@
 {
-  "name": "micro-frontend-template",
-  "private": true,
-  "version": "0.0.0",
+  "name": "xyz-temp",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "exports": {
     ".": {
       "import": "./dist/index.js",
@@ -19,6 +21,10 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "test": "jest"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-dom": ">=18.0.0"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
@@ -38,9 +44,7 @@
     "jotai": "^2.12.3",
     "lucide-react": "^0.468.0",
     "postcss": "^8.4.49",
-    "react": "^18.3.1",
     "react-apexcharts": "^1.7.0",
-    "react-dom": "^18.3.1",
     "react-draggable": "^4.4.6",
     "react-hook-form": "^7.54.2",
     "react-i18next": "^15.4.0",
