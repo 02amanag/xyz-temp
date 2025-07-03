@@ -1,6 +1,6 @@
 import { Moon, Sun } from "lucide-react"
 import { Button } from "xyz-comp";
-import { useTheme } from "@/components/theme/theme-provider";
+import { useTheme } from "./theme-provider";
 import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "xyz-comp";
 
 export function ThemeSwitcher() {

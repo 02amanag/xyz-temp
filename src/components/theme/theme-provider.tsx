@@ -1,6 +1,6 @@
 //@ts-nocheck
-import { sidebarCollapsedAtom } from "@/atoms/nav";
-import { useConfig } from "@/hooks/use-config";
+import { sidebarCollapsedAtom } from "../../atoms/nav";
+import { useConfig } from "../../hooks/use-config";
 import { useAtom } from "jotai";
 import { createContext, useContext, useEffect, useState } from "react";
 

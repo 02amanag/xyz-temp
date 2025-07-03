@@ -6,7 +6,8 @@ export { default as TurkeyProvincesMap } from "./components/ui/TurkeyProvincesMa
 export { default as WorldMap } from "./components/ui/WorldMap";
 
 // Standalone Theme Components
-export { StandaloneThemeSwitcher } from "./components/ui/StandaloneThemeSwitcher";
+export { ThemeSwitcher } from "./components/theme/theme-switcher";
+export { ThemeProvider, useTheme } from "./components/theme/theme-provider";
 
 // Hooks (standalone)
 export { useIsMobile } from "./hooks/use-mobile";
